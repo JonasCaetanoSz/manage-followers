@@ -1,0 +1,20 @@
+# Byte-copilado 
+
+__pycache__/
+
+# extenções C
+
+*.so
+
+# virtualenv
+
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+
+# arquivos gerados pelo programa
+
+users_uffolow.txt
+new_followings.txt
+followers.json
