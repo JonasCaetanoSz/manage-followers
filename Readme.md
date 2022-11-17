@@ -8,8 +8,8 @@ gerenciar seguidores e seguidos do instagram
 Clonando repositorio e instalando dependência
 
 ```bash
-  git clone https://github.com/JonasCaetanoSz/manage-followers &&
-  cd manage-followers &&
+  git clone https://github.com/JonasCaetanoSz/manage-followers 
+  cd manage-followers
   pip install -r requirements.txt
 ```
     
